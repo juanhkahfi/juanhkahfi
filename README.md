@@ -1,4 +1,4 @@
-![readmebox](https://github.com/juanhkahfi/juanhkahfi/assets/42096811/a60f6fbe-bc1a-4c3e-b8d9-d335cc225d86)
+
 ![Uploading<svg fill="none" viewBox="0 0 837 221" width="837" xmlns="http://www.w3.org/2000/svg"><foreignObject width="837px" height="100%"><style xmlns="http://www.w3.org/1999/xhtml">
               .container {
                 width: 837px;
