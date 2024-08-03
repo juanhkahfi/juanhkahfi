@@ -37,6 +37,4 @@
     <img src="https://skillicons.dev/icons?i=python,java,mysql,r" /><br>
 </div>
 
-<hr/>
-
 <br/>
