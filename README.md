@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=17FFFC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Juan+Haniful+Kahfi!;" />
 </h1>
 
-<h3 align="center">System Analyst | Cybersecurity Enthusiast | Blue Team </h3>
+<h3 align="center">Cybersecurity Enthusiast | Blue Team </h3>
 
 <br/>
 
